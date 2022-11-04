@@ -1,0 +1,10 @@
+https://uijsgep7x8.execute-api.us-east-2.amazonaws.com/theclassicART/checkavailability
+
+https://uijsgep7x8.execute-api.us-east-2.amazonaws.com/theclassicART/createevent
+
+https://uijsgep7x8.execute-api.us-east-2.amazonaws.com/theclassicART/getevents
+
+https://uijsgep7x8.execute-api.us-east-2.amazonaws.com/theclassicART/myevents/email
+
+https://uijsgep7x8.execute-api.us-east-2.amazonaws.com/theclassicART/events/date/email
+
