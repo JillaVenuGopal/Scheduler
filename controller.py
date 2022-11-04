@@ -17,9 +17,9 @@ service = create_service(creds)
 @app.errorhandler(404)
 def page_not_found(e):
     """
-    error route
+    Not existing routes
     """
-    return {'manchidhi': "emaina kavali ante vere route use chesko"}
+    return {"Message": "Page not found"}
 
 
 @app.route("/create", methods=["POST"])
